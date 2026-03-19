@@ -1,0 +1,6 @@
+﻿  first work with SFML.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 612 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Avi Exploration Project.vcxproj -> C:\Users\avisi\source\repos\Avi Exploration Project\x64\Release\Avi Exploration Project.exe
